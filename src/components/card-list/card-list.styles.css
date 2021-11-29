@@ -1,0 +1,9 @@
+.card-list {
+    width: 85vw;
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 1.5%; */
+    row-gap: 20px;
+    column-gap: 1vw;
+    align-items: center;
+}
